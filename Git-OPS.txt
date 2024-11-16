@@ -2,3 +2,5 @@
 Basic Git operation
 
 git clone -- to clone a repo.
+
+Git add -- to add file to staging area.
