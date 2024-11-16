@@ -1,0 +1,4 @@
+
+Basic Git operation
+
+git clone -- to clone a repo.
